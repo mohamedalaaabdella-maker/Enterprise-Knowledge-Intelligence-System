@@ -1,0 +1,28 @@
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+
+# LLM & Configuration
+python-dotenv
+pydantic
+
+# Embeddings & Reranking
+sentence-transformers
+transformers
+
+# Vector Database
+chromadb
+
+# Retrieval
+rank-bm25
+
+# UI
+gradio
+
+# Utilities
+numpy
+pandas
